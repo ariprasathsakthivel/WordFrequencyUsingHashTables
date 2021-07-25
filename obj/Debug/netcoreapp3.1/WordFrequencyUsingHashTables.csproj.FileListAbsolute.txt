@@ -1,0 +1,13 @@
+E:\C#\WordFrequencyUsingHashTables\bin\Debug\netcoreapp3.1\WordFrequencyUsingHashTables.exe
+E:\C#\WordFrequencyUsingHashTables\bin\Debug\netcoreapp3.1\WordFrequencyUsingHashTables.deps.json
+E:\C#\WordFrequencyUsingHashTables\bin\Debug\netcoreapp3.1\WordFrequencyUsingHashTables.runtimeconfig.json
+E:\C#\WordFrequencyUsingHashTables\bin\Debug\netcoreapp3.1\WordFrequencyUsingHashTables.runtimeconfig.dev.json
+E:\C#\WordFrequencyUsingHashTables\bin\Debug\netcoreapp3.1\WordFrequencyUsingHashTables.dll
+E:\C#\WordFrequencyUsingHashTables\bin\Debug\netcoreapp3.1\WordFrequencyUsingHashTables.pdb
+E:\C#\WordFrequencyUsingHashTables\obj\Debug\netcoreapp3.1\WordFrequencyUsingHashTables.csproj.AssemblyReference.cache
+E:\C#\WordFrequencyUsingHashTables\obj\Debug\netcoreapp3.1\WordFrequencyUsingHashTables.AssemblyInfoInputs.cache
+E:\C#\WordFrequencyUsingHashTables\obj\Debug\netcoreapp3.1\WordFrequencyUsingHashTables.AssemblyInfo.cs
+E:\C#\WordFrequencyUsingHashTables\obj\Debug\netcoreapp3.1\WordFrequencyUsingHashTables.csproj.CoreCompileInputs.cache
+E:\C#\WordFrequencyUsingHashTables\obj\Debug\netcoreapp3.1\WordFrequencyUsingHashTables.dll
+E:\C#\WordFrequencyUsingHashTables\obj\Debug\netcoreapp3.1\WordFrequencyUsingHashTables.pdb
+E:\C#\WordFrequencyUsingHashTables\obj\Debug\netcoreapp3.1\WordFrequencyUsingHashTables.genruntimeconfig.cache
